@@ -3,7 +3,7 @@
 *For any question you can contact me:* [Ing. César Ríos](https://www.linkedin.com/in/cesarriosag/)
 
 #### 1.- The first project it is about world videogames sales.
-You can interact with the project in this link: [Project 1-World videogames sales](https://app.powerbi.com/view?r=eyJrIjoiNzY3NzBiZWMtOWY3NS00ZGI1LWI3ZjYtMjNjYzJiZjgzNGM3IiwidCI6ImJkNWVjMDYxLTdjYmQtNDlmNy04NDI0LTgzZmNmODMxMjg0OSJ9)
+You can interact with the project at this link: [Project 1-World videogames sales](https://app.powerbi.com/view?r=eyJrIjoiNzY3NzBiZWMtOWY3NS00ZGI1LWI3ZjYtMjNjYzJiZjgzNGM3IiwidCI6ImJkNWVjMDYxLTdjYmQtNDlmNy04NDI0LTgzZmNmODMxMjg0OSJ9)
 
 #### 2.- The second project it is about some indicators about the people in the world.
-You can interact with the project in this link: [Project 2-World people indicators](https://app.powerbi.com/view?r=eyJrIjoiNzIwMTg0ZTgtODdmYS00MTc2LTljMDItMzVkMzk5ODlmZjQ0IiwidCI6ImJkNWVjMDYxLTdjYmQtNDlmNy04NDI0LTgzZmNmODMxMjg0OSJ9)
+You can interact with the project at this link: [Project 2-World people indicators](https://app.powerbi.com/view?r=eyJrIjoiNzIwMTg0ZTgtODdmYS00MTc2LTljMDItMzVkMzk5ODlmZjQ0IiwidCI6ImJkNWVjMDYxLTdjYmQtNDlmNy04NDI0LTgzZmNmODMxMjg0OSJ9)
