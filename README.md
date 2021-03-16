@@ -6,4 +6,4 @@
 You can interact with the proyect in this link: [Project 1-Videogames world sales](https://app.powerbi.com/view?r=eyJrIjoiNzY3NzBiZWMtOWY3NS00ZGI1LWI3ZjYtMjNjYzJiZjgzNGM3IiwidCI6ImJkNWVjMDYxLTdjYmQtNDlmNy04NDI0LTgzZmNmODMxMjg0OSJ9)
 
 #### 2.- The second proyect it is about some indicators about the people in the world.
-You can interact with the proyect in this link: [Project 2-People in the world indicators](https://app.powerbi.com/view?r=eyJrIjoiNzIwMTg0ZTgtODdmYS00MTc2LTljMDItMzVkMzk5ODlmZjQ0IiwidCI6ImJkNWVjMDYxLTdjYmQtNDlmNy04NDI0LTgzZmNmODMxMjg0OSJ9)
+You can interact with the proyect in this link: [Project 2-World people indicators](https://app.powerbi.com/view?r=eyJrIjoiNzIwMTg0ZTgtODdmYS00MTc2LTljMDItMzVkMzk5ODlmZjQ0IiwidCI6ImJkNWVjMDYxLTdjYmQtNDlmNy04NDI0LTgzZmNmODMxMjg0OSJ9)
