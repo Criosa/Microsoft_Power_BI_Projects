@@ -1,5 +1,5 @@
 # Power BI Projects
-### In this repositorie I'll publish projects on Microsoft Power BI. The main objective is to show the tools that I can manipulate to create an analysis and data visualization that help you create some personal projects for your work or homework. 
+### In this repositorie I'll publish projects on Microsoft Power BI. The main objective is to show the tools that I can manipulate to create an analysis and data visualization that help you to create your first o next personal project on Power BI. 
 *For any question you can contact me:* [Ing. César Ríos](https://www.linkedin.com/in/cesarriosag/)
 
 #### 1.- The first project it is about world videogames sales.
