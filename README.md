@@ -1,4 +1,4 @@
-# Power BI project repository
+# Power BI Project Repository
 ### Welcome to my Microsoft Power BI project repository. The main objective of the repository is to share some projects that I have developed in the Power BI platform in order to show the use of internal tools for the correct analysis and visualization of data, which will allow us to make better decisions. All projects were based on the [Data Analysis and Business Intelligence](https://www.udemy.com/course/power-bi-analisis-datos-business-intelligence/) course by Udemy, but developed and published by [me](https://www.linkedin.com/in/cesarriosag/).
 
 #### Project 1 - Global Video Game Sales.
