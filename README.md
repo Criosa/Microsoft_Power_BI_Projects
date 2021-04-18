@@ -23,6 +23,11 @@ You can interact with the project at this link: [Project 4-Finance](https://app.
 
 You can interact with the project at this link: [Project 5-Forecast](https://app.powerbi.com/view?r=eyJrIjoiYTRiM2I1YmEtNDhkNS00YzZiLWExZGMtMjZmNWU3YzA1YjQ1IiwidCI6ImJkNWVjMDYxLTdjYmQtNDlmNy04NDI0LTgzZmNmODMxMjg0OSJ9)
 
+#### Dashboards - examples.
+
+[Marketing dashboard example: ](https://app.powerbi.com/view?r=eyJrIjoiNjAwODc1MjUtNGExZS00MmJjLWJlNDctZGMzODAzMWM1NzVkIiwidCI6ImJkNWVjMDYxLTdjYmQtNDlmNy04NDI0LTgzZmNmODMxMjg0OSJ9)
+
+
 
 
 _______________________________________________________________________________________________________________________________________________________
@@ -50,5 +55,9 @@ Puedes interactuar con el proyecto dando clic a continuación: [Proyecto 4-Finan
 #### Porject 5 - Pronósticos.
 
 Puedes interactuar con el proyecto dando clic a continuación: [Proyecto 5-Pronósticos](https://app.powerbi.com/view?r=eyJrIjoiYTRiM2I1YmEtNDhkNS00YzZiLWExZGMtMjZmNWU3YzA1YjQ1IiwidCI6ImJkNWVjMDYxLTdjYmQtNDlmNy04NDI0LTgzZmNmODMxMjg0OSJ9)
+
+#### Dashboards - ejemplos.
+
+[Ejemplo marketing dashboard: ](https://app.powerbi.com/view?r=eyJrIjoiNjAwODc1MjUtNGExZS00MmJjLWJlNDctZGMzODAzMWM1NzVkIiwidCI6ImJkNWVjMDYxLTdjYmQtNDlmNy04NDI0LTgzZmNmODMxMjg0OSJ9)
 
 
